@@ -18,7 +18,6 @@ The source image should be supplied as the first argument to the script:
 ```
 git clone https://github.com/peacebaker/image-frier.git
 python frier source.jpg
-
 ```
 
 By default, the image (and all its iterations) will be saved to a subfolder of the current working directory named 
